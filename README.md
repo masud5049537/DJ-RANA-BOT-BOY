@@ -14,7 +14,7 @@
 
 ## 👑 Developer
 
-> ADMIN:一ꨄ ⵂ.ডি'জে一Fɱz.ⵂ রা'না一ꕥ࿐
+> ADMIN:一 ᎠᎫ ᎡᎪᏁᎪ ᏴᏫᎩ ː-Ꮗ T.T　o.O
 🌐 [Facebook Profile](https://www.facebook.com/share/19gLvVXkj4/)  
 💬 [Join Bot Group](https://m.me/j/AbbVSfeyPnr-13Js/)  
 🧠 [GitHub Profile]()
@@ -76,10 +76,10 @@ jobs:
 ## 📜 License
 
 This project is open-source under the MIT License.  
-Use, modify, and share — just keep the credits to 一ꨄ ⵂ.ডি'জে一Fɱz.ⵂ রা'না一ꕥ࿐🤍
+Use, modify, and share — just keep the credits to ᎠᎫ ᎡᎪᏁᎪ ᏴᏫᎩ ː-Ꮗ T.T　o.O🤍
 
 ---
 
 <p align="center">
-  <b>© 2025 | Made with 💜 BY 一ꨄ ⵂ.ডি'জে一Fɱz.ⵂ রা'না一ꕥ࿐</b>
+  <b>© 2025 | Made with 💜 BY ᎠᎫ ᎡᎪᏁᎪ ᏴᏫᎩ ː-Ꮗ T.T　o.O</b>
 </p>
