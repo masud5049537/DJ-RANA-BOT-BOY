@@ -4,7 +4,7 @@ module.exports = {
   config: {
     name: "imgur",
     version: "1.0.0",
-    author: "ArYAN",
+    author: "RANA",
     countDown: 0,
     role: 0,
     shortDescription: "Upload an image/video to Imgur",
