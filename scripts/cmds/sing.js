@@ -60,5 +60,4 @@ module.exports = {
       e.sendMessage(`❌ Failed to download song: ${r.message}`, f.threadID, f.messageID);
       e.unsendMessage(i.messageID);
     }
-  }
-};
+        }
