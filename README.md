@@ -15,7 +15,7 @@
 ## 👑 Developer
 
 > ADMIN:一 ᎠᎫ ᎡᎪᏁᎪ ᏴᏫᎩ ː-Ꮗ T.T　o.O
-🌐 [Facebook Profile](https://www.facebook.com/share/19gLvVXkj4/)  
+🌐 [Facebook Profile](https://www.facebook.com/profile.php?id=61583259069460)  
 💬 [Join Bot Group](https://m.me/j/AbbVSfeyPnr-13Js/)  
 🧠 [GitHub Profile]()
 
