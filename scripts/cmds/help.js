@@ -63,10 +63,10 @@ module.exports = {
       msg += `
 ❏━━━━═━┈┈━═━━━━❏\     Total Commands:  [ ${totalCommands} ]\n📬 all cmd ${prefix}Help ƚɾყρ\n`;
       msg += ``;
-      msg += `\🛠️ Prefix: ${prefix}
+      msg += `.🛠️ Prefix:. ${prefix}
 👑 Owner: 𝐃𝐉-𝐑𝐀𝐍𝐀-𝐁𝐎𝐘
 🎉 add my gc: ${prefix}supportgc
-🔗 fb link: https://www.facebook.com/share/1Bd1EfXEeD/
+🔗 fb link: https://www.facebook.com/share/1Agnbpg4aJ/
 ❏━━━━═━┈┈━═━━━━❏`; // its not decoy so change it if you want 
 
 
