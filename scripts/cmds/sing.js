@@ -8,7 +8,7 @@ module.exports = {
     name: "sing",
     aliases: ["music", "song"],
     version: "0.0.1",
-    author: "RANA",
+    author: "ArYAN",
     countDown: 5,
     role: 0,
     shortDescription: "Sing tomake chai",
@@ -60,4 +60,5 @@ module.exports = {
       e.sendMessage(`❌ Failed to download song: ${r.message}`, f.threadID, f.messageID);
       e.unsendMessage(i.messageID);
     }
-        }
+  }
+};
