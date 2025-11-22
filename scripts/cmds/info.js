@@ -75,7 +75,7 @@ module.exports = {
 │ 🤖 𝐁𝐨𝐭 𝐍𝐚𝐦𝐞: ${botname}
 │ 🕐 𝐓𝐢𝐦𝐞: ${localTime}
 │ 🌀 𝐔𝐩𝐭𝐢𝐦𝐞: ${uptimeString}
-│ ⚡ 𝐏𝐢𝐧𝐠: ${ping}𝐦𝐬
+│ ⚡ 𝐏𝐢𝐧𝐠: ${ping}
 ╰───────────╯
 `;
 
